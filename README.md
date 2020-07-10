@@ -1,4 +1,5 @@
 # Flutter Smart Home UI Design Implementation
+![App Screenshot](app_images/screenshot.png)
 
 
 ## Description
