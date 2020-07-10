@@ -1,16 +1,27 @@
-# smart_home_ui
+# Flutter Smart Home UI Design Implementation
 
-A new Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Hello people, 😊
+This is an implementation of a beautiful UI Design of Smart Home App in Flutter 🙂
 
-A few resources to get you started if this is your first Flutter project:
+UI Design Credits to - Martyna Zielińska 
+Dribbble Link - https://dribbble.com/shots/11814526-Smart-Home
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Tools/Softwares Used -
+1. Adobe XD
+2. VS Code
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Additional Packages/Plugins Used -
+1. "Generate Flutter Code"   
+(Plugin for Adobe XD to Flutter)
+ (NOT the official one(i.eAdobe) but the one by the developer - Thize(Giovani Lobato)  )
+
+2. flutter_staggered_grid_view    
+ (for grid view)
+
+3. flutter_svg      
+(for using SVG)
+
+Hope you like it 🙂
